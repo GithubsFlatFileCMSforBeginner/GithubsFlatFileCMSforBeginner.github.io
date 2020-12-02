@@ -1,0 +1,5 @@
+<h2 style="text-align: center;">Github's FlatFile CMS for Beginner</h2>
+<p>This is your frontpage article .. in folder 'page' the file 'main.txt'</p>
+<p>To create another page: Make a new {name}.txt file in page folder. It will then automatically appear in menu and visitor counts will also begin to appear beneath its content later, when visitors have left and it is concluded thereupon.</p>
+<p>Choose your own site favicon and simply paste it over the one already present.</p>
+<p>"Github's best & sole FlatFile CMS for Beginner" is an extract of what this site '<a href="http://writer2.rf.gd" target="_blank">Writer2</a>' began with.</p>
